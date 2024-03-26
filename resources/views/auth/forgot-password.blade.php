@@ -17,7 +17,7 @@ reset link that will allow you to create a new one.') }}
 
         <div class="flex justify-end mt-4">
             <x-forms.primary-button>
-                {{ __('Send Password Reset Link') }}
+                {{ __('Send Password Reset Url') }}
             </x-forms.primary-button>
         </div>
     </form>
